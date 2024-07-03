@@ -1,4 +1,4 @@
-## Hello World
+## [Read Technical Article](https://medium.com/@zeusifeanyi058/automating-linux-user-creation-with-bash-script-90e3275a58c5)
 
 # DevOps Stage 1: Linux User Creation Bash Script
 
